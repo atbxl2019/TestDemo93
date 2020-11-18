@@ -5,6 +5,6 @@ public class Test {
 			System.out.println("这是git");
 			System.out.println("反反复c d复cdscdssdscdcdcdc");
 
-			System.out.println("ccccccddcdscsdcddd这是github修改");
+			System.out.println("ccccccddcdscsdcddd");
 		}
 }
